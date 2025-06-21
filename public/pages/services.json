@@ -4,7 +4,7 @@
     "title": "Precision Engineering Solutions",
     "enabled": true,
     "subtitle": "Delivering High-Quality Precision Components for Automotive and Pneumatic Industries",
-    "backgroundImage": "",
+    "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
     "backgroundVideo": "https://example.com/manufacturing-process.mp4"
   },
   "meta": {
@@ -16,7 +16,7 @@
       "type": "cta",
       "title": "Ready to Elevate Your Manufacturing Needs?",
       "enabled": true,
-      "subtitle": "Connect with our expert team for tailored precision component solutions",
+      "subtitle": "Connect with our precision engineering experts for tailored component solutions",
       "primaryCTA": {
         "text": "Request Quote",
         "action": "/contact"
@@ -31,58 +31,58 @@
       "items": [
         {
           "id": "custom-manufacturing",
-          "image": "https://unsplash.com/photos/manufacturing-precision-parts",
-          "title": "Custom Precision Manufacturing",
-          "description": "We specialize in creating high-quality, custom precision components for automotive and pneumatic applications. Our advanced manufacturing techniques ensure exceptional accuracy and reliability.",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "title": "Custom Component Manufacturing",
+          "description": "We specialize in designing and manufacturing precision brass components tailored to your specific automotive and pneumatic requirements. Our advanced manufacturing capabilities ensure high-quality, precise parts.",
           "capabilities": [
-            "Brass Component Fabrication",
-            "Precision Machining",
+            "100+ Part Types",
+            "Brass Precision Components",
             "Custom Design Services",
-            "Rapid Prototyping",
-            "Small to Large Volume Production"
+            "Automotive Sector Expertise",
+            "Pneumatic Sector Solutions"
           ]
         },
         {
-          "id": "automotive-components",
-          "image": "https://unsplash.com/photos/automotive-parts",
-          "title": "Automotive Precision Parts",
-          "description": "Our automotive precision components are engineered to meet the highest industry standards. We deliver reliable, high-performance parts for various automotive applications.",
+          "id": "precision-engineering",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "title": "Precision Engineering Services",
+          "description": "Our engineering team provides comprehensive design and development services, transforming your conceptual requirements into high-performance precision components with exceptional accuracy.",
           "capabilities": [
-            "Engine Component Manufacturing",
-            "Transmission Parts",
-            "Brake System Components",
-            "Suspension Parts",
-            "Quality Certified Production"
+            "Advanced CAD Design",
+            "Prototype Development",
+            "Technical Consultation",
+            "Material Selection Support",
+            "Performance Optimization"
           ]
         },
         {
-          "id": "pneumatic-solutions",
-          "image": "https://unsplash.com/photos/pneumatic-components",
-          "title": "Pneumatic System Components",
-          "description": "We provide precision-engineered components for pneumatic systems, ensuring optimal performance and durability in demanding industrial environments.",
+          "id": "quality-assurance",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "title": "Quality Assurance",
+          "description": "We maintain rigorous quality control processes to ensure every component meets the highest industry standards. Our commitment to precision guarantees reliable and consistent performance.",
           "capabilities": [
-            "Valve Components",
-            "Cylinder Parts",
-            "Pressure Regulation Components",
-            "Custom Pneumatic Solutions",
-            "High-Precision Tolerances"
+            "Comprehensive Inspection",
+            "Precision Measurement",
+            "Material Testing",
+            "Dimensional Verification",
+            "Performance Validation"
           ]
         }
       ],
       "title": "Our Service Offerings",
       "enabled": true,
-      "subtitle": "Comprehensive Precision Manufacturing Solutions for Diverse Industrial Needs"
+      "subtitle": "Comprehensive Precision Manufacturing Solutions for Automotive and Pneumatic Industries"
     },
     "capabilities": {
       "type": "capabilities",
       "items": [
         {
           "id": "production-capacity",
-          "title": "Advanced Production Capabilities",
+          "title": "Production Capabilities",
           "metrics": [
             {
               "label": "Monthly Production",
-              "value": "100,000+ Components"
+              "value": "50,000+ Components"
             },
             {
               "label": "Operating Capacity",
@@ -93,11 +93,11 @@
               "value": "2-4 Weeks Standard"
             }
           ],
-          "description": "Our state-of-the-art manufacturing facility enables high-volume, precision component production with rapid turnaround times."
+          "description": "Our state-of-the-art manufacturing facility enables high-volume production with rapid turnaround times and consistent quality."
         },
         {
           "id": "technical-expertise",
-          "title": "Technical Manufacturing Excellence",
+          "title": "Technical Expertise",
           "metrics": [
             {
               "label": "Manufacturing Technologies",
@@ -108,35 +108,35 @@
               "value": "18+ Years"
             },
             {
-              "label": "Custom Solution Capability",
-              "value": "100% Tailored Designs"
+              "label": "Custom Solutions",
+              "value": "Unlimited Configurations"
             }
           ],
-          "description": "Leveraging cutting-edge technologies and extensive industry experience to deliver innovative precision solutions."
+          "description": "With nearly two decades of experience, we leverage advanced technologies to deliver innovative precision component solutions."
         },
         {
           "id": "quality-standards",
-          "title": "Precision and Quality Assurance",
+          "title": "Quality Precision",
           "metrics": [
             {
-              "label": "Precision Tolerance",
+              "label": "Tolerance Level",
               "value": "±0.01mm"
             },
             {
               "label": "Quality Rate",
-              "value": "99.9% Accuracy"
+              "value": "99.8% Accuracy"
             },
             {
-              "label": "Certification",
+              "label": "Certifications",
               "value": "ISO 9001:2015"
             }
           ],
-          "description": "Committed to maintaining the highest quality standards through rigorous testing and precision engineering."
+          "description": "We maintain exceptional precision and quality standards, ensuring our components meet the most demanding industry requirements."
         }
       ],
       "title": "Our Capabilities",
       "enabled": true,
-      "subtitle": "Advanced Technology Meets Precision Manufacturing"
+      "subtitle": "Advanced Technology and Precision Engineering Excellence"
     },
     "manufacturing-process": {
       "type": "manufacturing-process",
@@ -144,32 +144,32 @@
         {
           "step": 1,
           "title": "Initial Consultation",
-          "description": "Understand client requirements and project specifications through detailed technical discussions."
+          "description": "Understanding your specific component requirements and technical specifications"
         },
         {
           "step": 2,
-          "title": "Design and Engineering",
-          "description": "Develop comprehensive design blueprints and engineering specifications using advanced CAD technologies."
+          "title": "Design & Engineering",
+          "description": "Developing detailed CAD models and engineering blueprints for precise manufacturing"
         },
         {
           "step": 3,
-          "title": "Precision Manufacturing",
-          "description": "Execute manufacturing using state-of-the-art CNC machines and precision tooling techniques."
+          "title": "Material Selection",
+          "description": "Choosing optimal brass materials to meet performance and durability requirements"
         },
         {
           "step": 4,
-          "title": "Quality Control",
-          "description": "Conduct comprehensive quality inspections using advanced metrology equipment to ensure precision."
+          "title": "Precision Manufacturing",
+          "description": "Utilizing advanced manufacturing techniques to create high-precision components"
         },
         {
           "step": 5,
-          "title": "Finishing and Treatment",
-          "description": "Apply specialized surface treatments and finishing processes to enhance component performance."
+          "title": "Quality Inspection",
+          "description": "Comprehensive testing and measurement to ensure dimensional accuracy and performance"
         },
         {
           "step": 6,
-          "title": "Delivery and Support",
-          "description": "Provide timely delivery and ongoing technical support for seamless integration of precision components."
+          "title": "Delivery & Support",
+          "description": "Packaging, shipping, and providing ongoing technical support for your precision components"
         }
       ],
       "title": "Our Manufacturing Process",
