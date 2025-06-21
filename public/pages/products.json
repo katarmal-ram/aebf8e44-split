@@ -21,40 +21,40 @@
             "id": "brass-connectors",
             "name": "Brass Connectors",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "Precision-engineered brass connectors for automotive systems, ensuring optimal performance and durability",
+            "description": "High-precision brass connectors designed for automotive systems with superior durability and performance",
             "applications": [
               "Engine Cooling Systems",
               "Fuel Delivery Systems",
-              "Brake Line Connections",
-              "Transmission Components"
+              "Transmission Components",
+              "Brake Line Fittings"
             ],
             "specifications": [
               "Material: High-Grade Brass",
               "Temperature Range: -40°C to 150°C",
-              "Pressure Rating: Up to 250 PSI",
-              "Corrosion Resistant"
+              "Pressure Rating: Up to 250 BAR",
+              "Corrosion Resistance: High"
             ]
           },
           {
-            "id": "brass-fittings",
-            "name": "Brass Fittings",
+            "id": "precision-fittings",
+            "name": "Precision Brass Fittings",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "Precision brass fittings designed for reliable automotive and pneumatic system connections",
+            "description": "Precision-engineered brass fittings for critical automotive and pneumatic applications",
             "applications": [
-              "Air Intake Systems",
+              "Air Compression Systems",
               "Hydraulic Connections",
               "Pneumatic Equipment",
               "Fluid Transfer Systems"
             ],
             "specifications": [
-              "Precision Machined",
-              "Multiple Size Options",
-              "Thread Compatibility: NPT, BSPT",
-              "High Tensile Strength"
+              "Tolerance: ±0.01mm",
+              "Material Purity: 95% Brass",
+              "Surface Finish: Electroplated",
+              "Thread Standards: DIN/ISO Compliant"
             ]
           }
         ],
-        "description": "Comprehensive range of automotive brass components engineered for maximum performance and reliability"
+        "description": "Specialized brass components engineered for automotive systems with uncompromising quality and precision"
       },
       {
         "id": "pneumatic-components",
@@ -63,29 +63,29 @@
         "products": [
           {
             "id": "pneumatic-valves",
-            "name": "Pneumatic Valves",
+            "name": "Brass Pneumatic Valves",
             "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
-            "description": "High-precision brass pneumatic valves for advanced industrial and mechanical applications",
+            "description": "Precision pneumatic valves manufactured with highest quality brass for reliable performance",
             "applications": [
-              "Compressed Air Systems",
               "Industrial Automation",
+              "Compressed Air Systems",
               "Robotic Equipment",
-              "Precision Control Systems"
+              "Manufacturing Machinery"
             ],
             "specifications": [
-              "Brass Construction",
-              "Flow Rates: 0-500 SCFM",
-              "Pressure Range: 0-150 PSI",
-              "Multiple Valve Types Available"
+              "Valve Size: 1/8\" to 2\"",
+              "Operating Pressure: 0-16 BAR",
+              "Temperature Range: -20°C to 120°C",
+              "Flow Coefficient: Optimized Design"
             ]
           }
         ],
-        "description": "Advanced pneumatic brass components designed for precision control and maximum efficiency"
+        "description": "Advanced brass pneumatic components designed for maximum efficiency and reliability"
       }
     ],
     "categoriesTitle": "Our Product Categories",
     "allProductsTitle": "Complete Product Range",
-    "categoriesSubtitle": "Find the Perfect Precision Components for Your Application",
+    "categoriesSubtitle": "Find the Perfect Precision Component for Your Application",
     "allProductsSubtitle": "Comprehensive Solutions for Automotive and Pneumatic Industries"
   },
   "sections": {
@@ -93,7 +93,7 @@
       "type": "cta",
       "title": "Need Custom Precision Components?",
       "enabled": true,
-      "subtitle": "Our experts are ready to develop tailored solutions for your specific requirements",
+      "subtitle": "Get expert consultation and tailored manufacturing solutions for your specific requirements",
       "primaryCTA": {
         "text": "Request Custom Quote",
         "action": "/contact"
@@ -106,9 +106,9 @@
     "products": {
       "type": "products",
       "items": [],
-      "title": "Explore Our Product Range",
+      "title": "Our Product Range",
       "enabled": true,
-      "subtitle": "Precision Engineering for Critical Industrial Applications"
+      "subtitle": "Precision-Engineered Brass Components for Critical Applications"
     }
   }
 }
