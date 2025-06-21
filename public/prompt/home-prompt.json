@@ -1,0 +1,167 @@
+
+{
+  "meta": {
+    "title": "[prompt] Create SEO-optimized title for the company homepage",
+    "description": "[prompt] Write compelling meta description for the company's main products and services"
+  },
+  "hero": {
+    "type": "video",
+    "enabled": true,
+    "title": "[prompt] Create powerful hero title that captures the company's core value proposition",
+    "subtitle": "[prompt] Write engaging subtitle that explains what the company does and who they serve",
+    "backgroundVideo": "[prompt] Provide video URL showcasing company operations or products",
+    "backgroundImage": "[prompt] Provide fallback hero image URL that represents the industry or company",
+    "cta": {
+      "primary": "[prompt] Create compelling primary call-to-action button text",
+      "primaryAction": "/products",
+      "secondary": "[prompt] Create secondary call-to-action button text",
+      "secondaryAction": "/contact"
+    }
+  },
+  "sections": {
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "enabled": true,
+      "title": "[prompt] Create section title that highlights company advantages",
+      "subtitle": "[prompt] Write subtitle that supports the main advantages theme",
+      "items": [
+        {
+          "id": "quality",
+          "icon": "[prompt] Choose from: award, shield, check-circle, star, thumbs-up, crown, medal, verified",
+          "title": "[prompt] Create advantage title focusing on quality/certification",
+          "description": "[prompt] Explain the quality advantage with specific details like certifications, standards, processes"
+        },
+        {
+          "id": "experience",
+          "icon": "[prompt] Choose from: clock, calendar, history, trending-up, building, users",
+          "title": "[prompt] Create advantage title focusing on experience/expertise",
+          "description": "[prompt] Highlight years of experience, expertise, successful projects, or industry knowledge"
+        },
+        {
+          "id": "technology",
+          "icon": "[prompt] Choose from: cog, settings, cpu, zap, tool, wrench, gear",
+          "title": "[prompt] Create advantage title focusing on technology/capabilities",
+          "description": "[prompt] Describe technological advantages, equipment, processes, or innovation"
+        }
+      ]
+    },
+    "aboutusintro": {
+      "type": "about-us-intro",
+      "enabled": true,
+      "title": "[prompt] Create about section title that introduces the company",
+      "subtitle": "[prompt] Write subtitle that positions company as industry leader",
+      "description": "[prompt] Write compelling company introduction covering mission, vision, and core values",
+      "image": "[prompt] Provide image URL showing company facility, team, or operations",
+      "highlights": [
+        "[prompt] Create highlight 1 - certification or standard",
+        "[prompt] Create highlight 2 - product range or capability",
+        "[prompt] Create highlight 3 - market reach or clients",
+        "[prompt] Create highlight 4 - support or service feature"
+      ]
+    },
+    "stats": {
+      "type": "stats",
+      "enabled": true,
+      "title": "[prompt] Create stats section title showcasing achievements",
+      "subtitle": "[prompt] Write subtitle that emphasizes scale and success",
+      "items": [
+        { 
+          "number": "[prompt] Add years of experience number with + sign", 
+          "label": "Years Experience" 
+        },
+        { 
+          "number": "[prompt] Add product variants number with + sign", 
+          "label": "Product Variants" 
+        },
+        { 
+          "number": "[prompt] Add countries served number with + sign", 
+          "label": "Countries Served" 
+        },
+        { 
+          "number": "[prompt] Add satisfied clients number with + sign", 
+          "label": "Satisfied Clients" 
+        }
+      ]
+    },
+    "expertise": {
+      "type": "expertise",
+      "enabled": true,
+      "title": "[prompt] Create expertise section title highlighting industry focus",
+      "subtitle": "[prompt] Write subtitle about specialized solutions for different sectors",
+      "description": "[prompt] Explain how company serves diverse sectors with specialized products",
+      "sectors": [
+        {
+          "id": "automotive",
+          "name": "[prompt] Industry sector name 1",
+          "description": "[prompt] Describe products/services for this industry sector",
+          "image": "[prompt] Industry-relevant image URL",
+          "applications": [
+            "[prompt] Application 1 for this sector",
+            "[prompt] Application 2 for this sector",
+            "[prompt] Application 3 for this sector",
+            "[prompt] Application 4 for this sector",
+            "[prompt] Application 5 for this sector"
+          ]
+        }
+      ]
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "enabled": true,
+      "title": "[prompt] Create testimonials section title",
+      "subtitle": "[prompt] Write subtitle about client relationships and trust",
+      "items": [
+        {
+          "id": "client-1",
+          "name": "[prompt] Client name 1",
+          "company": "[prompt] Company name 1",
+          "designation": "[prompt] Job title 1",
+          "content": "[prompt] Write authentic testimonial focusing on quality, service, and results",
+          "rating": 5,
+          "image": "[prompt] Professional headshot URL"
+        },
+        {
+          "id": "client-2",
+          "name": "[prompt] Client name 2",
+          "company": "[prompt] Company name 2",
+          "designation": "[prompt] Job title 2",
+          "content": "[prompt] Write authentic testimonial focusing on partnership and reliability",
+          "rating": 5,
+          "image": "[prompt] Professional headshot URL"
+        }
+      ]
+    },
+    "faqs": {
+      "type": "faqs",
+      "enabled": true,
+      "title": "[prompt] Create FAQ section title",
+      "subtitle": "[prompt] Write subtitle about common questions and answers",
+      "items": [
+        {
+          "id": "minimum-order",
+          "question": "[prompt] Create question about minimum order quantity or requirements",
+          "answer": "[prompt] Provide clear answer about ordering minimums and requirements"
+        },
+        {
+          "id": "lead-time",
+          "question": "[prompt] Create question about delivery times or lead times",
+          "answer": "[prompt] Provide realistic timeframes for different types of orders"
+        }
+      ]
+    },
+    "cta": {
+      "type": "cta",
+      "enabled": true,
+      "title": "[prompt] Create compelling final call-to-action title",
+      "subtitle": "[prompt] Write persuasive subtitle encouraging action",
+      "primaryCTA": {
+        "text": "[prompt] Primary CTA button text",
+        "action": "/products"
+      },
+      "secondaryCTA": {
+        "text": "[prompt] Secondary CTA button text",
+        "action": "tel:[prompt-add-phone-number]"
+      }
+    }
+  }
+}
