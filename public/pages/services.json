@@ -1,199 +1,180 @@
-
 {
-  "meta": {
-    "title": "Brass Manufacturing Services - Shiv Brass Industries",
-    "description": "Comprehensive brass component manufacturing services including forging, machining, finishing, and quality assurance"
-  },
   "hero": {
     "type": "video",
+    "title": "Precision Engineering Solutions",
     "enabled": true,
-    "title": "Brass Manufacturing Services",
-    "subtitle": "Comprehensive solutions for precision brass components",
-    "backgroundVideo": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part_seemoxrjtx__456bda19ebbb32c7b3b6e1208019deab__P1080.mp4?response-content-disposition=attachment%3Bfilename%3Dauthomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview.mp4",
-    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "Delivering High-Quality Precision Components for Automotive and Pneumatic Industries",
+    "backgroundImage": "",
+    "backgroundVideo": "https://example.com/manufacturing-process.mp4"
+  },
+  "meta": {
+    "title": "Precision Components Manufacturing | Jyoti Precision",
+    "description": "Expert manufacturer of precision brass components for automotive and pneumatic sectors, delivering custom solutions since 2005"
   },
   "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Elevate Your Manufacturing Needs?",
+      "enabled": true,
+      "subtitle": "Connect with our expert team for tailored precision component solutions",
+      "primaryCTA": {
+        "text": "Request Quote",
+        "action": "/contact"
+      },
+      "secondaryCTA": {
+        "text": "Call Now",
+        "action": "+91-123-456-7890"
+      }
+    },
     "services": {
       "type": "services",
-      "enabled": true,
-      "title": "Our Manufacturing Services",
-      "subtitle": "Complete brass solutions from design to delivery",
       "items": [
         {
-          "id": "cnc-machining",
-          "title": "Precision CNC Machining",
-          "description": "Advanced CNC machining services for complex brass components with tight tolerances and superior surface finish.",
+          "id": "custom-manufacturing",
+          "image": "https://unsplash.com/photos/manufacturing-precision-parts",
+          "title": "Custom Precision Manufacturing",
+          "description": "We specialize in creating high-quality, custom precision components for automotive and pneumatic applications. Our advanced manufacturing techniques ensure exceptional accuracy and reliability.",
           "capabilities": [
-            "Multi-axis CNC turning",
-            "High-precision milling",
-            "Thread cutting & tapping",
-            "Custom tooling",
-            "Tolerance ±0.001mm",
-            "24/7 production capability"
-          ],
-          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80"
+            "Brass Component Fabrication",
+            "Precision Machining",
+            "Custom Design Services",
+            "Rapid Prototyping",
+            "Small to Large Volume Production"
+          ]
         },
         {
-          "id": "brass-forging",
-          "title": "Brass Forging",
-          "description": "Hot and cold forging processes to create strong, durable brass components for demanding applications.",
+          "id": "automotive-components",
+          "image": "https://unsplash.com/photos/automotive-parts",
+          "title": "Automotive Precision Parts",
+          "description": "Our automotive precision components are engineered to meet the highest industry standards. We deliver reliable, high-performance parts for various automotive applications.",
           "capabilities": [
-            "Hot forging",
-            "Cold forging",
-            "Die forging",
-            "Upset forging",
-            "Custom alloy development",
-            "Tool making & design"
-          ],
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+            "Engine Component Manufacturing",
+            "Transmission Parts",
+            "Brake System Components",
+            "Suspension Parts",
+            "Quality Certified Production"
+          ]
         },
         {
-          "id": "quality-assurance",
-          "title": "Quality Assurance & Testing",
-          "description": "Comprehensive quality control and testing services to ensure components meet specifications and standards.",
+          "id": "pneumatic-solutions",
+          "image": "https://unsplash.com/photos/pneumatic-components",
+          "title": "Pneumatic System Components",
+          "description": "We provide precision-engineered components for pneumatic systems, ensuring optimal performance and durability in demanding industrial environments.",
           "capabilities": [
-            "Dimensional inspection",
-            "Material testing",
-            "Pressure testing",
-            "Chemical analysis",
-            "ISO 9001:2015 certified",
-            "Chemical composition analysis"
-          ],
-          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=800&q=80"
-        },
-        {
-          "id": "design-development",
-          "title": "Design & Development",
-          "description": "Engineering design and product development services for custom brass components and applications.",
-          "capabilities": [
-            "CAD/CAM design",
-            "Rapid prototyping",
-            "Finite element analysis",
-            "Material selection",
-            "Process optimization",
-            "Value engineering"
-          ],
-          "image": "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&w=800&q=80"
-        },
-        {
-          "id": "surface-treatment",
-          "title": "Surface Treatment & Finishing",
-          "description": "Various surface treatment and finishing options to enhance component performance and appearance.",
-          "capabilities": [
-            "Electroplating",
-            "Powder coating",
-            "Anodizing",
-            "Polishing & buffing",
-            "Nickel plating",
-            "Chrome plating"
-          ],
-          "image": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?auto=format&fit=crop&w=800&q=80"
-        },
-        {
-          "id": "assembly-packaging",
-          "title": "Assembly & Packaging",
-          "description": "Complete assembly services and custom packaging solutions for finished brass components.",
-          "capabilities": [
-            "Sub-assembly services",
-            "Final assembly",
-            "Custom packaging",
-            "Bulk packaging",
-            "Labeling & marking",
-            "Logistics support"
-          ],
-          "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=800&q=80"
+            "Valve Components",
+            "Cylinder Parts",
+            "Pressure Regulation Components",
+            "Custom Pneumatic Solutions",
+            "High-Precision Tolerances"
+          ]
         }
-      ]
+      ],
+      "title": "Our Service Offerings",
+      "enabled": true,
+      "subtitle": "Comprehensive Precision Manufacturing Solutions for Diverse Industrial Needs"
     },
     "capabilities": {
       "type": "capabilities",
-      "enabled": true,
-      "title": "Manufacturing Capabilities",
-      "subtitle": "Advanced technology and expertise for superior results",
       "items": [
         {
           "id": "production-capacity",
-          "title": "Production Capacity",
-          "description": "High-volume production capabilities with flexible scheduling",
+          "title": "Advanced Production Capabilities",
           "metrics": [
-            { "label": "Monthly Capacity", "value": "500,000 units" },
-            { "label": "Operating Hours", "value": "24/7 operation" },
-            { "label": "Lead Time", "value": "2-4 weeks" }
-          ]
+            {
+              "label": "Monthly Production",
+              "value": "100,000+ Components"
+            },
+            {
+              "label": "Operating Capacity",
+              "value": "24/7 Manufacturing"
+            },
+            {
+              "label": "Delivery Timeline",
+              "value": "2-4 Weeks Standard"
+            }
+          ],
+          "description": "Our state-of-the-art manufacturing facility enables high-volume, precision component production with rapid turnaround times."
         },
         {
-          "id": "material-expertise",
-          "title": "Material Expertise",
-          "description": "Extensive knowledge of brass alloys and their applications",
+          "id": "technical-expertise",
+          "title": "Technical Manufacturing Excellence",
           "metrics": [
-            { "label": "Alloy Types", "value": "50+ grades" },
-            { "label": "Material Testing", "value": "Full certification" },
-            { "label": "Custom Alloys", "value": "Available" }
-          ]
+            {
+              "label": "Manufacturing Technologies",
+              "value": "10+ Advanced Techniques"
+            },
+            {
+              "label": "Industry Experience",
+              "value": "18+ Years"
+            },
+            {
+              "label": "Custom Solution Capability",
+              "value": "100% Tailored Designs"
+            }
+          ],
+          "description": "Leveraging cutting-edge technologies and extensive industry experience to deliver innovative precision solutions."
         },
         {
-          "id": "precision-standards",
-          "title": "Precision Standards",
-          "description": "Meeting the highest precision standards in the industry",
+          "id": "quality-standards",
+          "title": "Precision and Quality Assurance",
           "metrics": [
-            { "label": "Tolerance", "value": "±0.001mm" },
-            { "label": "Surface Finish", "value": "Ra 0.1μm" },
-            { "label": "Quality Rate", "value": "99.8%" }
-          ]
+            {
+              "label": "Precision Tolerance",
+              "value": "±0.01mm"
+            },
+            {
+              "label": "Quality Rate",
+              "value": "99.9% Accuracy"
+            },
+            {
+              "label": "Certification",
+              "value": "ISO 9001:2015"
+            }
+          ],
+          "description": "Committed to maintaining the highest quality standards through rigorous testing and precision engineering."
         }
-      ]
+      ],
+      "title": "Our Capabilities",
+      "enabled": true,
+      "subtitle": "Advanced Technology Meets Precision Manufacturing"
     },
     "manufacturing-process": {
       "type": "manufacturing-process",
-      "enabled": true,
-      "title": "Our Manufacturing Process",
-      "subtitle": "From concept to delivery - precision at every step",
       "steps": [
         {
           "step": 1,
-          "title": "Design & Engineering",
-          "description": "Collaborative design process with advanced CAD/CAM technology and engineering analysis"
+          "title": "Initial Consultation",
+          "description": "Understand client requirements and project specifications through detailed technical discussions."
         },
         {
           "step": 2,
-          "title": "Material Selection",
-          "description": "Selecting the optimal brass alloy for your specific application requirements"
+          "title": "Design and Engineering",
+          "description": "Develop comprehensive design blueprints and engineering specifications using advanced CAD technologies."
         },
         {
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "CNC machining and forging using state-of-the-art equipment"
+          "description": "Execute manufacturing using state-of-the-art CNC machines and precision tooling techniques."
         },
         {
           "step": 4,
           "title": "Quality Control",
-          "description": "Rigorous testing and inspection at every stage with certified procedures"
+          "description": "Conduct comprehensive quality inspections using advanced metrology equipment to ensure precision."
         },
         {
           "step": 5,
-          "title": "Finishing & Assembly",
-          "description": "Surface finishing treatments and assembly services as required"
+          "title": "Finishing and Treatment",
+          "description": "Apply specialized surface treatments and finishing processes to enhance component performance."
         },
         {
           "step": 6,
-          "title": "Delivery & Support",
-          "description": "Timely delivery with comprehensive documentation and ongoing support"
+          "title": "Delivery and Support",
+          "description": "Provide timely delivery and ongoing technical support for seamless integration of precision components."
         }
-      ]
-    },
-    "cta": {
-      "type": "cta",
+      ],
+      "title": "Our Manufacturing Process",
       "enabled": true,
-      "title": "Ready to Start Your Project?",
-      "subtitle": "Let our experienced team help you bring your brass component requirements to life with precision and excellence.",
-      "primaryCTA": {
-        "text": "Contact Our Experts",
-        "action": "/contact"
-      },
-      "secondaryCTA": {
-        "text": "Free Consultation",
-        "action": "tel:+91-288-2710234"
-      }
+      "subtitle": "Systematic Approach to Precision Component Manufacturing"
     }
   }
 }
