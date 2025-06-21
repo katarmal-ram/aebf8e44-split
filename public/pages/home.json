@@ -1,27 +1,27 @@
 {
   "hero": {
     "cta": {
-      "primary": "Explore Precision Components",
-      "secondary": "Get Custom Quote",
+      "primary": "Explore Our Components",
+      "secondary": "Get a Custom Quote",
       "primaryAction": "/products",
       "secondaryAction": "/contact"
     },
     "type": "image",
     "title": "Precision Manufacturing Excellence",
     "enabled": true,
-    "subtitle": "Crafting Superior Brass Components for Automotive and Pneumatic Industries",
-    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=2000&q=80"
+    "subtitle": "Crafting High-Performance Brass Components for Automotive and Pneumatic Industries",
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop"
   },
   "meta": {
     "title": "Jyoti Precision - Industrial Component Manufacturing",
-    "description": "Leading manufacturer of precision brass components for automotive and pneumatic sectors with 100+ product types since 2005."
+    "description": "Specialized brass component manufacturer for automotive and pneumatic sectors with 100+ product types and custom solutions."
   },
   "sections": {
     "cta": {
       "type": "cta",
       "title": "Ready to Transform Your Manufacturing Needs?",
       "enabled": true,
-      "subtitle": "Partner with Jyoti Precision for high-quality, customized precision components",
+      "subtitle": "Partner with Jyoti Precision for reliable, high-quality precision components tailored to your specifications.",
       "primaryCTA": {
         "text": "View Our Products",
         "action": "/products"
@@ -36,18 +36,18 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We offer flexible order quantities starting from 100 units, with custom pricing for larger volumes.",
+          "answer": "We accommodate orders from small batches to large-scale production, with flexible MOQ based on component complexity.",
           "question": "What are your minimum order quantities?"
         },
         {
           "id": "lead-time",
-          "answer": "Standard lead times range from 2-4 weeks depending on component complexity and order volume.",
-          "question": "What is your typical production lead time?"
+          "answer": "Standard lead times range from 2-6 weeks depending on component complexity and order volume.",
+          "question": "What are your typical production lead times?"
         },
         {
           "id": "quality",
-          "answer": "We maintain rigorous quality control processes, utilizing precision measurement tools and conducting multiple inspection stages.",
-          "question": "How do you ensure product quality?"
+          "answer": "We follow strict ISO 9001 quality standards with comprehensive testing and precision manufacturing processes.",
+          "question": "How do you ensure component quality?"
         }
       ],
       "title": "Frequently Asked Questions",
@@ -74,9 +74,9 @@
           "number": "500+"
         }
       ],
-      "title": "Our Achievements",
+      "title": "Our Manufacturing Achievements",
       "enabled": true,
-      "subtitle": "Delivering precision and excellence across multiple sectors"
+      "subtitle": "Delivering precision and quality across multiple industrial sectors"
     },
     "expertise": {
       "type": "expertise",
@@ -86,30 +86,30 @@
         {
           "id": "automotive",
           "name": "Automotive Sector",
-          "image": "https://images.unsplash.com/photo-1586336153815-6d6c9d596d4d?w=2000&q=80",
-          "description": "Specialized precision components for automotive manufacturing, ensuring high performance and reliability",
+          "image": "https://images.unsplash.com/photo-1586336153815-6d6c9d206b44?ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
+          "description": "Specialized brass components for automotive systems, ensuring high performance and reliability.",
           "applications": [
-            "Engine Components",
+            "Fuel System Components",
             "Transmission Parts",
             "Brake System Elements",
-            "Fuel System Connectors"
+            "Engine Mounting Brackets"
           ]
         },
         {
           "id": "pneumatic",
-          "name": "Pneumatic Systems",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?w=2000&q=80",
-          "description": "Advanced brass components designed for pneumatic equipment and industrial applications",
+          "name": "Pneumatic Sector",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2?ixlib=rb-4.0.3&q=80&w=2070&auto=format&fit=crop",
+          "description": "Precision-engineered brass components for pneumatic equipment and systems.",
           "applications": [
-            "Valve Assemblies",
+            "Valve Components",
             "Pressure Regulators",
-            "Cylinder Fittings",
-            "Air Compression Components"
+            "Connector Fittings",
+            "Air Handling Parts"
           ]
         }
       ],
-      "subtitle": "Precision Engineering Across Critical Industrial Sectors",
-      "description": "Jyoti Precision specializes in manufacturing high-quality brass components for demanding industrial applications, combining technical expertise with advanced manufacturing techniques."
+      "subtitle": "Delivering Specialized Solutions Across Critical Industrial Sectors",
+      "description": "Jyoti Precision specializes in manufacturing high-quality brass components for automotive and pneumatic industries, with a commitment to precision engineering and customer satisfaction."
     },
     "whyChooseUs": {
       "type": "why-choose-us",
@@ -118,55 +118,24 @@
           "id": "quality",
           "icon": "shield-check",
           "title": "Uncompromising Quality Standards",
-          "description": "We maintain strict quality control processes, utilizing advanced measurement technologies to ensure every component meets precise specifications."
+          "description": "Our ISO-certified manufacturing processes ensure consistent, high-precision components that meet the most demanding industry requirements."
         },
         {
           "id": "experience",
           "icon": "calendar",
-          "title": "18+ Years of Manufacturing Excellence",
-          "description": "Our extensive industry experience enables us to deliver consistently superior precision components across multiple sectors."
+          "title": "18+ Years of Manufacturing Expertise",
+          "description": "Decades of experience in precision component manufacturing, delivering reliable solutions across multiple industrial sectors."
         },
         {
           "id": "technology",
           "icon": "cog",
           "title": "Advanced Manufacturing Technology",
-          "description": "Leveraging state-of-the-art equipment and innovative manufacturing techniques to produce complex, high-precision components."
+          "description": "State-of-the-art equipment and innovative processes enable us to produce complex, high-performance brass components."
         }
       ],
       "title": "Why Choose Jyoti Precision",
       "enabled": true,
       "subtitle": "Your Trusted Partner in Precision Component Manufacturing"
-    },
-    "testimonials": {
-      "type": "testimonials",
-      "items": [
-        {
-          "id": "client-1",
-          "name": "Rajesh Kumar",
-          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&q=80",
-          "rating": 5,
-          "company": "AutoTech Solutions",
-          "content": "Jyoti Precision consistently delivers exceptional quality components that meet our stringent automotive manufacturing requirements.",
-          "designation": "Procurement Manager"
-        },
-        {
-          "id": "client-2",
-          "name": "Samantha Reddy",
-          "image": "https://images.unsplash.com/photo-1544005313-94ddc0022b05?w=500&q=80",
-          "rating": 5,
-          "company": "PneumaTech Industries",
-          "content": "Their precision and reliability have been crucial to our pneumatic system manufacturing process.",
-          "designation": "Operations Director"
-        }
-      ],
-      "title": "Client Success Stories",
-      "enabled": true,
-      "subtitle": "Trusted by Leading Industrial Manufacturers"
     }
-  },
-  "_instructions": {
-    "usage": "Dynamic home page content showcasing Jyoti Precision's manufacturing expertise",
-    "purpose": "Professional split-screen homepage template",
-    "content_tone": "Technical, reliable, professional"
   }
 }
