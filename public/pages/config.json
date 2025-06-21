@@ -80,14 +80,14 @@
     ]
   },
   "company": {
-    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&h=200&fit=crop",
+    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&h=300&fit=crop",
     "name": "Jyoti Precision Components",
     "tagline": "Precision Engineering Excellence",
     "description": "Jyoti Precision is a leading manufacturer of high-quality precision components for the automobile and pneumatic sectors. With over 100+ part types, we deliver exceptional engineering solutions since 2005."
   },
   "contact": {
     "email": "info@jyotiprecision.com",
-    "phone": "+91-22-4567-8901",
+    "phone": "+91-022-4567-8901",
     "timing": [
       {
         "hours": "9:00 AM - 6:00 PM",
