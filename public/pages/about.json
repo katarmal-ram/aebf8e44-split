@@ -9,18 +9,18 @@
     "enabled": true,
     "subtitle": "Engineering Excellence in Precision Manufacturing Since 2005",
     "description": "Jyoti Precision has been a leading manufacturer of high-quality precision components for the automobile and pneumatic sectors. With over 100 specialized part types, we deliver innovative solutions that drive industrial performance and reliability.",
-    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3"
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
-    "title": "Jyoti Precision - Precision Manufacturing Excellence Since 2005",
-    "description": "Leading precision component manufacturer specializing in automotive and pneumatic sector parts with advanced manufacturing capabilities and commitment to quality."
+    "title": "Jyoti Precision - Precision Manufacturing Excellence",
+    "description": "Leading precision component manufacturer specializing in automotive and pneumatic sector parts with advanced manufacturing capabilities since 2005."
   },
   "sections": {
     "cta": {
       "type": "cta",
       "title": "Partner with Industry Leaders",
       "enabled": true,
-      "subtitle": "Transform Your Manufacturing Needs with Precision and Innovation",
+      "subtitle": "Transform Your Manufacturing Needs with Precision Engineering",
       "primaryCTA": {
         "text": "Get Quote",
         "action": "/contact"
@@ -37,15 +37,15 @@
           "id": "manufacturing-excellence",
           "year": "2022",
           "title": "Manufacturing Excellence Award",
-          "authority": "National Manufacturing Association",
-          "description": "Recognized for outstanding precision engineering and consistent quality delivery"
+          "authority": "Indian Manufacturing Association",
+          "description": "Recognized for outstanding precision engineering and technological innovation in component manufacturing"
         },
         {
-          "id": "export-achievement",
+          "id": "quality-leadership",
           "year": "2021",
-          "title": "Export Performance Award",
-          "authority": "Chamber of Commerce",
-          "description": "Acknowledged for significant contributions to international trade and manufacturing exports"
+          "title": "Quality Leadership Award",
+          "authority": "National Quality Council",
+          "description": "Acknowledged for consistent high-quality manufacturing standards and process optimization"
         }
       ],
       "title": "Awards & Recognition",
@@ -68,9 +68,9 @@
           "description": "Environmental management certification demonstrating sustainable manufacturing practices"
         }
       ],
-      "title": "Quality Certifications",
+      "title": "Certifications & Standards",
       "enabled": true,
-      "subtitle": "Committed to Highest Standards of Quality and Compliance"
+      "subtitle": "Committed to Global Quality and Sustainability Standards"
     },
     "companyJourney": {
       "type": "company-journey",
@@ -78,7 +78,7 @@
         {
           "year": "2005",
           "title": "Company Foundation",
-          "description": "Established with a vision to provide high-precision manufacturing solutions for industrial sectors"
+          "description": "Established with a vision to provide high-precision manufacturing solutions for automotive and pneumatic sectors"
         },
         {
           "year": "2010",
@@ -87,49 +87,49 @@
         },
         {
           "year": "2015",
-          "title": "Quality Certification",
-          "description": "Achieved ISO 9001:2015 certification, reinforcing commitment to global quality standards"
+          "title": "ISO Certification Achievement",
+          "description": "Obtained ISO 9001:2015 certification, marking a milestone in quality management"
         },
         {
           "year": "2020",
-          "title": "International Market Reach",
-          "description": "Expanded international client base and established global manufacturing partnerships"
+          "title": "Technology Upgrade",
+          "description": "Invested in state-of-the-art precision manufacturing equipment and automation technologies"
         }
       ],
       "title": "Our Journey",
       "enabled": true,
-      "subtitle": "A Story of Growth, Innovation, and Precision"
+      "subtitle": "A Story of Continuous Growth and Innovation"
     },
     "infrastructure": {
       "type": "infrastructure",
       "items": [
         {
           "id": "cnc-machines",
-          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3",
+          "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
           "title": "Advanced CNC Machining Center",
           "capacity": "20+ High-Precision CNC Machines",
-          "description": "State-of-the-art CNC machining capabilities for complex precision component manufacturing",
-          "specifications": "High-accuracy tolerances, multi-axis capabilities, advanced material processing"
+          "description": "Cutting-edge CNC machining capabilities for complex precision component manufacturing",
+          "specifications": "Multi-axis precision, tolerance: ±0.01mm"
         }
       ],
       "title": "Our Infrastructure",
       "enabled": true,
-      "subtitle": "Cutting-Edge Manufacturing Capabilities"
+      "subtitle": "State-of-the-Art Manufacturing Capabilities"
     },
     "companyOverview": {
       "type": "company-overview",
-      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d3",
+      "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
       "items": [
         {
           "id": "overview",
-          "content": "Jyoti Precision is a leading manufacturer of precision components for automotive and pneumatic sectors, established in 2005. We specialize in producing over 100 unique part types using advanced manufacturing technologies and maintaining the highest quality standards.",
+          "content": "Jyoti Precision is a leading manufacturer of precision components for automotive and pneumatic sectors, established in 2005. We specialize in producing over 100 part types with unparalleled quality and technological innovation.",
           "highlights": [
             "ISO 9001:2015 Certified",
-            "Advanced CNC Machining Technology",
-            "Global Market Presence",
+            "Advanced CNC Manufacturing",
+            "Pan-India Operations",
             "Custom Engineering Solutions",
-            "Comprehensive Quality Control",
-            "Sustainable Manufacturing Practices"
+            "Rapid Prototyping Capabilities",
+            "99.8% On-Time Delivery"
           ]
         }
       ],
@@ -150,19 +150,19 @@
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Precision material sourcing and evaluation for optimal component performance"
+          "description": "Precision material sourcing focusing on brass and high-performance alloys"
         },
         {
           "id": "production",
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Advanced CNC machining and manufacturing processes with tight tolerance control"
+          "description": "Advanced CNC machining with highest accuracy and repeatability"
         },
         {
           "id": "quality",
           "step": 4,
           "title": "Quality Assurance",
-          "description": "Rigorous multi-stage quality inspection and testing procedures"
+          "description": "Rigorous multi-stage quality control and dimensional inspection"
         },
         {
           "id": "finishing",
@@ -173,13 +173,13 @@
         {
           "id": "delivery",
           "step": 6,
-          "title": "Packaging and Delivery",
-          "description": "Secure packaging and efficient logistics for timely component delivery"
+          "title": "Packaging & Delivery",
+          "description": "Secure packaging and timely delivery with comprehensive documentation"
         }
       ],
       "title": "Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic Approach to Precision Manufacturing"
+      "subtitle": "Systematic Approach to Precision Engineering"
     }
   }
 }
