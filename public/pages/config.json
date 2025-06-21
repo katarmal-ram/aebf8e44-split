@@ -1,74 +1,103 @@
-
 {
   "site": {
-    "name": "Ashapura Brass Industries",
-    "tagline": "Precision Engineering Excellence",
-    "favicon": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=32&q=80"
+    "name": "Jyoti Precision Components",
+    "favicon": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=64&h=64&fit=crop",
+    "tagline": "Precision Engineering Excellence"
   },
-  "company": {
-    "name": "Ashapura Brass Industries",
-    "tagline": "Precision Engineering Excellence",
-    "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=100&q=80",
-    "description": "At ashapura brass industries we produce precision components."
-  },
-  "contact": {
-    "address": "Digvijay plot, jamnagar, gujrat",
-    "phone": "+91-9876543210",
-    "email": "info@ashabrass.com",
-    "timing": [
+  "footer": {
+    "social": [
       {
-        "label": "Mon - Fri",
-        "hours": "9:00 AM - 6:00 PM"
+        "url": "https://facebook.com/jyoti-precision",
+        "icon": "facebook",
+        "platform": "facebook"
       },
       {
-        "label": "Saturday",
-        "hours": "9:00 AM - 2:00 PM"
+        "url": "https://linkedin.com/company/jyoti-precision",
+        "icon": "linkedin",
+        "platform": "linkedin"
+      },
+      {
+        "url": "https://twitter.com/jyotiprecision",
+        "icon": "twitter",
+        "platform": "twitter"
+      },
+      {
+        "url": "https://instagram.com/jyoti_precision",
+        "icon": "instagram",
+        "platform": "instagram"
+      }
+    ],
+    "branding": {
+      "url": "https://ferralabs.in",
+      "text": "Made with ❤️ by",
+      "company": "Ferralabs"
+    },
+    "navigation": [
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about",
+        "label": "About Us"
+      },
+      {
+        "href": "/services",
+        "label": "Services"
+      },
+      {
+        "href": "/products",
+        "label": "Products"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact"
       }
     ]
   },
   "header": {
     "navigation": [
-      { "label": "Home", "href": "/" },
-      { "label": "About Us", "href": "/about" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Products", "href": "/products" },
-      { "label": "Contact", "href": "/contact" }
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about",
+        "label": "About Us"
+      },
+      {
+        "href": "/services",
+        "label": "Services"
+      },
+      {
+        "href": "/products",
+        "label": "Products"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact"
+      }
     ]
   },
-  "footer": {
-    "navigation": [
-      { "label": "Home", "href": "/" },
-      { "label": "About Us", "href": "/about" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Products", "href": "/products" },
-      { "label": "Contact", "href": "/contact" }
-    ],
-    "social": [
+  "company": {
+    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&h=200&fit=crop",
+    "name": "Jyoti Precision Components",
+    "tagline": "Precision Engineering Excellence",
+    "description": "Jyoti Precision is a leading manufacturer of high-quality precision components for the automobile and pneumatic sectors. With over 100+ part types, we deliver exceptional engineering solutions since 2005."
+  },
+  "contact": {
+    "email": "info@jyotiprecision.com",
+    "phone": "+91-22-4567-8901",
+    "timing": [
       {
-        "platform": "facebook",
-        "url": "https://facebook.com/lorem",
-        "icon": "facebook"
+        "hours": "9:00 AM - 6:00 PM",
+        "label": "Mon - Fri"
       },
       {
-        "platform": "linkedin",
-        "url": "https://linkedin.com/company/lorem",
-        "icon": "linkedin"
-      },
-      {
-        "platform": "twitter",
-        "url": "https://twitter.com/lorem",
-        "icon": "twitter"
-      },
-      {
-        "platform": "instagram",
-        "url": "https://instagram.com/lorem",
-        "icon": "instagram"
+        "hours": "9:00 AM - 1:00 PM",
+        "label": "Saturday"
       }
     ],
-    "branding": {
-      "text": "Made with ❤️ by",
-      "company": "Ferralabs",
-      "url": "https://ferralabs.in" 
-    }
+    "address": "Plot 45, Industrial Area, Pune - 411014, Maharashtra, India"
   }
 }
